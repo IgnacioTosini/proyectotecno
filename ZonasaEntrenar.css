@@ -1,0 +1,94 @@
+body {
+    background-image: url(fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 800px;
+    height: 800px;
+    color: rgb(0, 0, 0);
+}
+
+.logo {
+    position: relative;
+    border-radius: 50px;
+}
+
+.Zonas {
+    /*list-style-type para elegir el tipo de lista, dependiendo de que tipo de lista tengas (ul/ol)*/
+    color: black;
+    list-style-type: square;
+    /*list-style-type para ol son: Decimal,decimal-leading-zero, upper-latin, lower-latin, lower-alpha, entre otros*/
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    font-size: 20px;
+}
+
+
+/*los atributos se colocan entre [] en css y en html atributo=""*/
+
+
+/*list-style-position para dejar un espaceado puede ser o inside como outside*/
+
+ul li a {
+    color: #afcbde;
+    background: #001f3486;
+    /*id es un identificador el cual en css se pone con #id y el nombre*/
+    padding: 0px 15px;
+    text-decoration: none;
+}
+
+h2 {
+    /*border-collapse puede ser collapse o separate (esto para tablas)*/
+    font-size: 50px;
+    /*en los td se  pueden agragar padding, border*/
+    margin: 20px 10px;
+    /*table tr:hover{color} esto sirve para cuando el usuario pase por arriba de la fila se coloree*/
+    width: 500px;
+    /*table td:hover{background y color} para al pasar por arriba de una celda se coloree*/
+    color: orange;
+    position: relative;
+    right: auto;
+}
+
+.Banner {
+    background: #0050854f;
+    width: 95%;
+    height: 219px;
+    padding: 30px;
+}
+
+.Banner a {
+    color: 30E21A;
+    text-decoration: none;
+    font-size: 2em;
+    box-shadow: 0px 5px 0px #a0a0055e;
+    background: #c0bd0c46;
+    padding: 10px 15px;
+}
+
+.Banner a:hover {
+    box-shadow: 0px 2px 0px #a0a0055e;
+    background: #0161a556;
+}
+
+.Banner a:active {
+    box-shadow: none;
+    color: FFF;
+}
+
+.todo {
+    background-color: rgba(29, 44, 59, 0.644);
+    width: 850px;
+}
+
+.titulo1 {
+    color: rgb(255, 251, 0);
+    font-size: xx-large;
+}
+
+.texto1 {
+    width: 830px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
