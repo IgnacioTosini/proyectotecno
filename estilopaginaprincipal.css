@@ -27,7 +27,7 @@ h1 {
     font-size: 50px;
     /*Font-size sirve para cambiear el tamaño de las letras (px= pixeles*/
     margin: 20px 10px;
-    width: 500px;
+    width: 70%;
     color: orange;
     /*display funciona para poner inline-block que los pone en linea*/
     position: relative;
