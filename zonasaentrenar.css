@@ -25,10 +25,9 @@ body {
 }
 
 
-/*los atributos se colocan entre [] en css y en html atributo=""*/
-
-
-/*list-style-position para dejar un espaceado puede ser o inside como outside*/
+.titulos {
+    color: gold;
+}
 
 ul li a {
     color: #afcbde;
