@@ -45,7 +45,7 @@ header {
 
 header a {
     /*:active sirve para saber que va a pasar cuando el usuario le de click al link*/
-    color: #1e201e;
+    color: #a4c4ff;
     text-decoration: none;
     /*:visited sirve para ver como va a quedar el link despues de a ver sido usado alguna vez*/
     font-size: 2em;
