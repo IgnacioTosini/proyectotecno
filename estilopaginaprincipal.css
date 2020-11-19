@@ -76,6 +76,7 @@ header a:active {
 
 .primero {
     width: 800px;
+    color: rgb(255, 255, 255);
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
@@ -132,6 +133,7 @@ section img {
     width: 830px;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+    color: rgb(255, 255, 255);
 }
 
 .titulo3 {
@@ -143,6 +145,7 @@ section img {
     width: 830px;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+    color: rgb(255, 255, 255);
 }
 
 .titulo4 {
@@ -154,6 +157,7 @@ section img {
     width: 830px;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+    color: rgb(255, 255, 255);
 }
 
 .titulo5 {
@@ -165,6 +169,7 @@ section img {
     width: 830px;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+    color: rgb(255, 255, 255);
 }
 
 .titulo6 {
@@ -176,11 +181,5 @@ section img {
     width: 830px;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+    color: rgb(255, 255, 255);
 }
-
-
-/** {
-    /*margin permite agregar margen y padding es un margen interno
-
-
-}*/
